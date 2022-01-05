@@ -1,5 +1,28 @@
 wdid,name,wdLabel,source,sourceDate,pid,position,startDate,endDate,psid
+Q101436759,Edgar Montaño Rojas,Edgar Montaño Rojas,https://en.wikipedia.org/wiki/Edgar_Montaño,2022-01-05,Q110419037,"Minister of Public Works, Services, and Housing",2020-11-09,,Q101436759-7A84B5CA-6EBE-4C43-9867-8E9D0C4A31C6
+Q101466811,Iván Lima Magne,Iván Lima Magne,https://en.wikipedia.org/wiki/Iván_Lima,2022-01-05,Q110419019,Minister of Justice and Institutional Transparency,2020-11-09,,Q101466811-AEB9A2CE-ECEC-4B2C-9EDE-78646B841F28
 Q102116482,Rogelio Mayta,Rogelio Mayta,https://en.wikipedia.org/wiki/Rogelio_Mayta,2021-11-03,Q5070783,Minister of Foreign Affairs,2020-11-09,,Q102116482-D0D5EF4C-779C-4E8E-B345-9A6A496EB997
+Q102304997,María Nela Prada,María Nela Prada,https://en.wikipedia.org/wiki/María_Nela_Prada,2022-01-05,Q110419013,Minister of the Presidency,2020-11-09,,Q102304997-D8604C25-5321-4508-BDE0-A5031F1134A8
+Q104019011,Sabina Orellana,Sabina Orellana,https://en.wikipedia.org/wiki/Sabina_Orellana,2022-01-05,Q110419023,"Minister of Cultures, Decolonization, and Depatriarchalization",2020-11-20,,Q104019011-AEF87078-D6AC-4352-94F3-FD610324E6C7
+Q104804128,Carlos del Castillo,Carlos del Castillo,https://en.wikipedia.org/wiki/Eduardo_del_Castillo,2022-01-05,Q110419015,Minister of Government,2020-11-09,,Q104804128-6E5EF479-EA3E-4623-920B-6D3454A772D7
+Q104850986,Édgar Pozo Valdivia,Édgar Pozo Valdivia,https://en.wikipedia.org/wiki/Édgar_Pozo,2022-01-05,Q110419285,Minister of Health and Sports,2020-11-19,2021-01-16,Q104850986-72136007-918D-46F3-A246-FD76AE799ABC
+Q104850986,Édgar Pozo Valdivia,Édgar Pozo Valdivia,https://en.wikipedia.org/wiki/Édgar_Pozo,2022-01-05,Q98966129,Minister of Health,2020-11-09,2020-11-19,Q104850986-8C2A92F8-8BF5-42CC-8F12-61AA0C37C258
+Q106319757,Jeyson Auza,Jeyson Auza,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419285,Minister of Health and Sports,2021-01-16,,Q106319757-F5474C6F-D3BE-4085-BCE0-C3311E39BF65
+Q106577025,Remmy Gonzáles,Remmy Gonzáles,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419022,Minister of Rural Development and Lands,2021-04-20,,Q106577025-E33FAC08-DEF2-4242-ABEC-0EC578E76CAF
+Q106905614,Wilson Cáceres,Wilson Cáceres,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419022,Minister of Rural Development and Lands,2020-11-09,2020-12-01,Q106905614-777E8C8D-B44F-42EF-89F6-55BE79968776
+Q107663000,Adrián Quelca,Adrián Quelca,https://en.wikipedia.org/wiki/Adrián_Quelca,2022-01-05,Q110419279,"Minister of Education, Sports, and Cultures",2020-11-09,2020-11-19,Q107663000-7021792A-FDFD-46E6-B40E-5D2ED053DD84
+Q107663000,Adrián Quelca,Adrián Quelca,https://en.wikipedia.org/wiki/Adrián_Quelca,2022-01-05,Q110419069,Minister of Education,2020-11-19,2021-11-12,Q107663000-9ED3D459-510F-4F88-8E7E-0098EF7EA862
+Q109655518,Edgar Pary,Edgar Pary,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419069,Minister of Education,2021-11-19,,Q109655518-E3D19F3F-E44E-41D4-BDCD-CE0432DE7B6A
+Q110419343,Gabriela Mendoza,Gabriela Mendoza,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419057,Minister of Development Planning,2020-11-09,,Q110419343-B9532EE1-FD01-4DBF-9066-237EF874F9D1
+Q110419344,Marcelo Montenegro,Marcelo Montenegro,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419018,Minister of Economy and Public Finance,2020-11-09,,Q110419344-FD7E7BF8-2A83-48D6-9329-044E0814A38C
+Q110419345,Néstor Huanca Chura,Néstor Huanca Chura,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419042,Minister of Productive Development and the Plural Economy,2020-11-09,,Q110419345-57D31DEA-58B0-4559-8342-740A4AACA4D4
+Q110419347,Ramiro Villavicencio,Ramiro Villavicencio,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419034,Minister of Mining and Metallurgy,2020-11-09,,Q110419347-4DD1A54C-0DA8-40BC-AA1A-94868E1C59E8
+Q110419348,Verónica Navia Tejada,Verónica Navia Tejada,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419021,"Minister of Work, Employment, and Social Security",2020-11-09,,Q110419348-A88DA94A-5CB8-4591-89FE-21A8A47F7CF9
+Q110419349,Juan Santos Cruz,Juan Santos Cruz,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419068,Minister of Environment and Water (Bolivia),2020-11-09,,Q110419349-34A8E606-F4E5-4657-8DBF-F63BA67ABEB3
+Q110419350,Edwin Characayo,Edwin Characayo,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419022,Minister of Rural Development and Lands,2020-12-01,2021-04-14,Q110419350-9B6670D2-B4FA-4709-A6BA-BC12561626A4
+Q110419351,Franklin Molina Ortiz,Franklin Molina Ortiz,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419054,Minister of Hydrocarbons,2020-11-09,2020-11-19,Q110419351-2DDD1EDB-6723-484B-A629-653DAD107918
+Q110419351,Franklin Molina Ortiz,Franklin Molina Ortiz,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419308,Minister of Hydrocarbons and Energies,2020-11-19,,Q110419351-3858FCC5-C342-4B63-AD28-D8CE9C8E8FB1
+Q110419351,Franklin Molina Ortiz,Franklin Molina Ortiz,https://en.wikipedia.org/wiki/Cabinet_of_Luis_Arce,,Q110419320,Minister of Energies,2020-11-12,2020-11-19,Q110419351-B1DE42FD-52C3-4B22-BF8B-B492ED042F5C
 Q16149892,Luis Arce,Luis Arce,,,Q373548,president of Bolivia,2020-11-08,,Q16149892-0890ffca-46e9-ed9f-3dc2-937fcd3ff11e
+Q5339974,Edmundo Novillo,Edmundo Novillo,https://en.wikipedia.org/wiki/Edmundo_Novillo,2022-01-05,Q110419027,Minister of Defense,2020-11-09,,Q5339974-57331CD6-8D8B-4F34-9B00-CFA007CB9199
 Q58136,David Choquehuanca,David Choquehuanca,https://en.wikipedia.org/wiki/David_Choquehuanca,2021-11-03,Q7925039,39th Vice President of Bolivia,2020-11-08,,Q58136-64987943-C4DF-40AB-A3E2-F9D2FF1781E7
-Q96115822,María Eidy Roca Justiniano,María Eidy Roca Justiniano,,,Q98966129,Minister of Health of Bolivia,2020-05-20,,Q96115822-4e1e0149-40ba-c25a-51dc-d9b72e290b0c
