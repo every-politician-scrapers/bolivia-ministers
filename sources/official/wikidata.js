@@ -1,5 +1,5 @@
 const fs = require('fs');
-let rawmeta = fs.readFileSync('meta.json');
+let rawmeta = fs.readFileSync('../../meta.json');
 let meta = JSON.parse(rawmeta);
 
 module.exports = function () {
@@ -32,11 +32,11 @@ module.exports = function () {
             OPTIONAL { ?ref pr:P813  ?sourceDate }
           }
 
-          OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "en") }
+          OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "es") }
           BIND(COALESCE(?sourceName, ?wdLabel) AS ?name)
 
-          OPTIONAL { ?positionItem wdt:P1705  ?nativeLabel   FILTER(LANG(?nativeLabel)   = "en") }
-          OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "en") }
+          OPTIONAL { ?positionItem wdt:P1705  ?nativeLabel   FILTER(LANG(?nativeLabel)   = "es") }
+          OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "es") }
           BIND(COALESCE(?statedName, ?nativeLabel, ?positionLabel) AS ?position)
         }
         # ${new Date().toISOString()}

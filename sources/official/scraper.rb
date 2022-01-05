@@ -7,17 +7,17 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.css('.views-field-title .field-content').text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('.views-field-field-cargo .field-content').text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('table.views-view-grid td')
     end
   end
 end
