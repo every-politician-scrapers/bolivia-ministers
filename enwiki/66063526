@@ -1,0 +1,147 @@
+{
+  "title": "María Nela Prada",
+  "pageID": 66063526,
+  "categories": [
+    "1980 births",
+    "Living people",
+    "21st-century Bolivian politicians",
+    "21st-century Bolivian women politicians",
+    "Bolivian diplomats",
+    "Government ministers of Bolivia",
+    "Luis Arce administration cabinet members",
+    "Movement for Socialism (Bolivia) politicians",
+    "People from Santa Cruz de la Sierra",
+    "Presidency ministers of Bolivia",
+    "Women government ministers of Bolivia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "María Nela Prada Tejada (born 1980) is a Bolivian diplomat and politician serving as the Minister of the Presidency since 9 November 2020 during the government of Luis Arce.",
+              "links": [
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luis Arce"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "María Nela Prada Tejada"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Nela",
+            "Prada"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "description": "Bolivian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "birth_year": "1980",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "María Nela Prada"
+          },
+          "image": {
+            "text": "María Nela Prada (CROPPED).png"
+          },
+          "caption": {
+            "text": "Prada at a meeting of the Peru-Bolivia Binational Cabinet, 2021"
+          },
+          "office": {
+            "text": "Minister of the Presidency",
+            "links": [
+              {
+                "text": "Minister of the Presidency",
+                "type": "internal",
+                "page": "Ministry of the Presidency (Bolivia)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Luis Arce",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Arce"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 November 2020"
+          },
+          "predecessor": {
+            "text": "Yerko Núñez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yerko Núñez"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "María Nela Prada Tejada"
+          },
+          "birth_date": {
+            "text": "1980 (age 42)"
+          },
+          "birth_place": {
+            "text": "Santa Cruz, Bolivia",
+            "links": [
+              {
+                "text": "Santa Cruz",
+                "type": "internal",
+                "page": "Santa Cruz de la Sierra"
+              },
+              {
+                "type": "internal",
+                "page": "Bolivia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Movement for Socialism",
+            "links": [
+              {
+                "text": "Movement for Socialism",
+                "type": "internal",
+                "page": "Movement for Socialism (Bolivia)"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Ramón Prada Vacadiez Betty Tejada"
+          }
+        }
+      ]
+    }
+  ]
+}

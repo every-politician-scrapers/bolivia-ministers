@@ -1,0 +1,149 @@
+{
+  "title": "Rogelio Mayta",
+  "pageID": 65879133,
+  "categories": [
+    "1971 births",
+    "Living people",
+    "21st-century Bolivian lawyers",
+    "21st-century Bolivian politicians",
+    "Bolivian diplomats",
+    "Bolivian lawyers",
+    "Foreign ministers of Bolivia",
+    "Government ministers of Bolivia",
+    "Higher University of San Andrés alumni",
+    "Luis Arce administration cabinet members",
+    "Movement for Socialism (Bolivia) politicians",
+    "People from La Paz"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rogelio Mayta Mayta (born 16 September 1971) is a Bolivian lawyer and politician currently serving as the Foreign Minister of Bolivia since 9 November 2020 under the administration of Luis Arce.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign Minister of Bolivia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luis Arce"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rogelio Mayta Mayta"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bolivian Minister of Foreign Affairs",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Mayta",
+            "Mayta"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1971",
+          "month": "9",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rogelio Mayta"
+          },
+          "image": {
+            "text": "Rogelio Mayta (CROPPED).png"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Foreign Minister of Bolivia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 November 2020"
+          },
+          "president": {
+            "text": "Luis Arce",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Arce"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Karen Longaric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karen Longaric"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 16, 1971"
+          },
+          "birth_place": {
+            "text": "La Paz, Bolivia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "La Paz"
+              },
+              {
+                "type": "internal",
+                "page": "Bolivia"
+              }
+            ]
+          },
+          "education": {
+            "text": "Higher University of San Andrés",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Higher University of San Andrés"
+              }
+            ]
+          },
+          "party": {
+            "text": "Movement for Socialism",
+            "links": [
+              {
+                "text": "Movement for Socialism",
+                "type": "internal",
+                "page": "Movement for Socialism (Bolivia)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
