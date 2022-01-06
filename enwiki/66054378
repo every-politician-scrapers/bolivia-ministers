@@ -1,0 +1,137 @@
+{
+  "title": "Eduardo del Castillo",
+  "pageID": 66054378,
+  "categories": [
+    "1988 births",
+    "Living people",
+    "21st-century Bolivian lawyers",
+    "21st-century Bolivian politicians",
+    "Bolivian lawyers",
+    "Government ministers of Bolivia",
+    "Luis Arce administration cabinet members",
+    "Ministers of Government of Bolivia",
+    "Movement for Socialism (Bolivia) politicians",
+    "People from Santa Cruz de la Sierra"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Carlos Eduardo del Castillo del Carpio (born 27 December 1988) is a Bolivian lawyer and politician currently serving as the Minister of Government of Bolivia since 9 November 2020.",
+              "formatting": {
+                "bold": [
+                  "Carlos Eduardo del Castillo del Carpio"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "del Castillo",
+            "del Carpio"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "description": "Bolivian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1988",
+          "month": "12",
+          "day": "27",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Eduardo del Castillo"
+          },
+          "image": {
+            "text": "Eduardo del Castillo.jpg"
+          },
+          "order": {
+            "text": "Minister of Government",
+            "links": [
+              {
+                "text": "Minister of Government",
+                "type": "internal",
+                "page": "Ministry of Government (Bolivia)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Luis Arce",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Arce"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 November 2020"
+          },
+          "predecessor": {
+            "text": "Arturo Murillo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arturo Murillo"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Carlos del Castillo del Carpio"
+          },
+          "birth_place": {
+            "text": "Santa Cruz de la Sierra, Bolivia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santa Cruz de la Sierra"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 27, 1988"
+          },
+          "party": {
+            "text": "Movement for Socialism",
+            "links": [
+              {
+                "text": "Movement for Socialism",
+                "type": "internal",
+                "page": "Movement for Socialism (Bolivia)"
+              }
+            ]
+          },
+          "education": {
+            "text": "Gabriel René Moreno Autonomous University",
+            "links": [
+              {
+                "text": "Gabriel René Moreno Autonomous University",
+                "type": "internal",
+                "page": "Universidad Autónoma Gabriel René Moreno"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
