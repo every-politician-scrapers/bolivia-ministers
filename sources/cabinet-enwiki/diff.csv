@@ -1,9 +1,9 @@
 @@,wdid,name,position,startdate,enddate
 ->,Q58136,David Choquehuanca,39th Vice President of Bolivia->Vice President,2020-11-08,
 ->,Q16149892,Luis Arce,president of Bolivia->President,2020-11-08,
+->,Q110419351->NULL,Franklin Molina Ortiz,Minister of Energies,2020-11-12,2020-11-19
 ->,Q110419351->NULL,Franklin Molina Ortiz,Minister of Hydrocarbons and Energies,2020-11-19,
 ->,Q110419351->NULL,Franklin Molina Ortiz,Minister of Hydrocarbons,2020-11-09,2020-11-19
-->,Q110419351->NULL,Franklin Molina Ortiz,Minister of Energies,2020-11-12,2020-11-19
 ->,Q110419350->NULL,Edwin Characayo,Minister of Rural Development and Lands->Minister of Rural Development and Land,2020-12-01,2021-04-14
 ->,Q110419349->NULL,Juan Santos Cruz,Minister of Environment and Water (Bolivia)->Minister of Environment and Water,2020-11-09,
 ->,Q110419348->NULL,Verónica Navia Tejada,"Minister of Work, Employment, and Social Security->Minister of Labor, Employment, and Social Security",2020-11-09,
@@ -15,8 +15,8 @@
 ->,Q106905614->NULL,Wilson Cáceres,Minister of Rural Development and Lands->Minister of Rural Development and Land,2020-11-09,2020-12-01
 ->,Q106577025->NULL,Remmy Gonzáles,Minister of Rural Development and Lands->Minister of Rural Development and Land,2021-04-20,
 ->,Q106319757->NULL,Jeyson Auza,Minister of Health and Sports,2021-01-16,
-->,Q104850986,Édgar Pozo Valdivia->Édgar Pozo,Minister of Health,2020-11-09,2020-11-19
 ->,Q104850986,Édgar Pozo Valdivia->Édgar Pozo,Minister of Health and Sports,2020-11-19,2021-01-16
+->,Q104850986,Édgar Pozo Valdivia->Édgar Pozo,Minister of Health,2020-11-09,2020-11-19
 ->,Q104804128,Carlos del Castillo->Eduardo del Castillo,Minister of Government,2020-11-09,
 ->,Q104019011,Sabina Orellana,"Minister of Cultures, Decolonization, and Depatriarchalization->Ministry of Cultures, Decolonization and Depatriarchalization",2020-11-20,
 ->,Q101466811,Iván Lima Magne->Iván Lima,Minister of Justice and Institutional Transparency,2020-11-09,
