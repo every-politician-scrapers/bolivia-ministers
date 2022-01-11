@@ -6,6 +6,7 @@
     "Living people",
     "21st-century Bolivian politicians",
     "Bolivian political scientists",
+    "Bolivian senators from Cochabamba",
     "Bolivian trade unionists",
     "Higher University of San Simón alumni",
     "Members of the Senate of Bolivia",
@@ -63,6 +64,14 @@
       ],
       "templates": [
         {
+          "description": "President of the Senate of Bolivia",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
           "list": [
             "Rodríguez",
             "Ledezma"
@@ -71,12 +80,18 @@
           "template": "family name hatnote"
         },
         {
-          "description": "Bolivian politician",
-          "template": "short description"
+          "title": "See list",
+          "list": [
+            "Lindaura Rasguido (2020–2021) Simona Quispe (2021–present)"
+          ],
+          "template": "list collapsed"
         },
         {
-          "date": "December 2020",
-          "template": "use dmy dates"
+          "title": "See list",
+          "list": [
+            "Rodrigo Paz Pereira (2020–2021) Santiago Ticona (2021–present)"
+          ],
+          "template": "list collapsed"
         },
         {
           "df": "y",
@@ -104,11 +119,14 @@
               }
             ]
           },
-          "vicepresident": {
-            "text": "Lindaura Rasguido (1st) Rodrigo Paz Pereira (2nd)"
+          "1blankname": {
+            "text": "First Vice President"
+          },
+          "2blankname": {
+            "text": "Second Vice President"
           },
           "term_start": {
-            "text": "3 November 2020"
+            "text": "4 November 2020"
           },
           "predecessor": {
             "text": "Eva Copa",
@@ -138,7 +156,7 @@
             "text": "3 November 2020"
           },
           "alongside1": {
-            "text": "Leonardo Loza and Patricia Arce",
+            "text": "Leonardo Loza, Patricia Arce, and Andrea Barrientos",
             "links": [
               {
                 "type": "internal",
@@ -147,8 +165,15 @@
               {
                 "type": "internal",
                 "page": "Patricia Arce"
+              },
+              {
+                "type": "internal",
+                "page": "Andrea Barrientos"
               }
             ]
+          },
+          "predecessor1": {
+            "text": "Efraín Chambi Copa"
           },
           "1blankname1": {
             "text": "Alternate"
