@@ -163,7 +163,13 @@
             ]
           },
           "parents": {
-            "text": "Ramón Prada Betty Tejada"
+            "text": "Ramón Prada Betty Tejada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Betty Tejada"
+              }
+            ]
           }
         }
       ]
