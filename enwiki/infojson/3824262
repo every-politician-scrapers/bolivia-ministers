@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Foreign Minister of Bolivia"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2006-01-22",
+    "P1365": {
+      "links": [
+        "Armando Loaiza"
+      ],
+      "stated_as": "Armando Loaiza"
+    },
+    "P582": "2017-01-23",
+    "P1366": {
+      "links": [
+        "Fernando Huanacuni Mamani"
+      ],
+      "stated_as": "Fernando Huanacuni Mamani"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "ALBA"
+      ],
+      "stated_as": "Secretary General of ALBA"
+    },
+    "P580": "2017-03-05",
+    "P1365": {
+      "links": [
+        "Bernardo Álvarez Herrera"
+      ],
+      "stated_as": "Bernardo Álvarez Herrera"
+    },
+    "P582": "2019-11-15",
+    "P1366": {
+      "links": [
+        "Sacha Llorenti"
+      ],
+      "stated_as": "Sacha Llorenti"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Bolivia"
+      ],
+      "stated_as": "39th Vice President of Bolivia"
+    },
+    "P580": "2020-11-08",
+    "P1365": {
+      "links": [
+        "Álvaro García Linera"
+      ],
+      "stated_as": "Álvaro García Linera"
+    }
+  }
+]

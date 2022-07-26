@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chamber of Senators (Bolivia)",
+        "Cochabamba Department"
+      ],
+      "stated_as": "Senator for Cochabamba"
+    },
+    "P580": "2020-11-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Efraín Chambi Copa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Chamber of Senators of Bolivia"
+      ],
+      "stated_as": "President of the Chamber of Senators"
+    },
+    "P580": "2020-11-04",
+    "P1365": {
+      "links": [
+        "Eva Copa"
+      ],
+      "stated_as": "Eva Copa"
+    }
+  }
+]

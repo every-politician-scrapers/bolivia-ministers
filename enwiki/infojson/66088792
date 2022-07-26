@@ -1,0 +1,34 @@
+[
+  {
+    "office": {
+      "links": [
+        "Magistrate",
+        "Supreme Tribunal of Justice (Bolivia)"
+      ],
+      "stated_as": "Magistrate of the Supreme Tribunal of Justice of Bolivia"
+    },
+    "P580": "2014-04-28",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "William Alave Laura"
+    },
+    "P582": "2016-01-03"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice and Institutional Transparency (Bolivia)"
+      ],
+      "stated_as": "Minister of Justice and Institutional Transparency"
+    },
+    "P580": "2020-11-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Álvaro Coimbra Cornejo"
+    }
+  }
+]
