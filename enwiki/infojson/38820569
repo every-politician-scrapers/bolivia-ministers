@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy and Public Finance (Bolivia)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2006-01-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Waldo Gutiérrez Iriarte"
+    },
+    "P582": "2009-02-08",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Himself"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy and Public Finance (Bolivia)"
+      ],
+      "stated_as": "Minister of Economy and Public Finance"
+    },
+    "P580": "2009-02-08",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Himself"
+    },
+    "P582": "2017-06-24",
+    "P1366": {
+      "links": [
+        "Mario Guillén"
+      ],
+      "stated_as": "Mario Guillén"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy and Public Finance (Bolivia)"
+      ],
+      "stated_as": "Minister of Economy and Public Finance"
+    },
+    "P580": "2019-01-23",
+    "P1365": {
+      "links": [
+        "Mario Guillén"
+      ],
+      "stated_as": "Mario Guillén"
+    },
+    "P582": "2019-11-10",
+    "P1366": {
+      "links": [
+        "José Luis Parada"
+      ],
+      "stated_as": "José Luis Parada"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Bolivia"
+    },
+    "P1545": "67",
+    "P580": "2020-11-08",
+    "P1365": {
+      "links": [
+        "Jeanine Áñez"
+      ],
+      "stated_as": "Jeanine Áñez"
+    }
+  }
+]

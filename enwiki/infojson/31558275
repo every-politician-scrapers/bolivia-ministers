@@ -1,0 +1,73 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies (Bolivia)",
+        "Cochabamba Department"
+      ],
+      "stated_as": "Member of the Chamber of Deputies from Cochabamba"
+    },
+    "P580": "2002-08-06",
+    "P582": "2010-01-22"
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Chamber of Deputies of Bolivia"
+      ],
+      "stated_as": "President of the Chamber of Deputies"
+    },
+    "P580": "2006-01-22",
+    "P1365": {
+      "links": [
+        "Norah Soruco"
+      ],
+      "stated_as": "Norah Soruco"
+    },
+    "P582": "2010-01-22",
+    "P1366": {
+      "links": [
+        "Héctor Enrique Arcé Zaconeta"
+      ],
+      "stated_as": "Héctor Enrique Arcé Zaconeta"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Cochabamba"
+    },
+    "P1545": "1",
+    "P580": "2010-05-30",
+    "P1365": {
+      "links": [
+        "Jorge Ledezma"
+      ],
+      "stated_as": "Jorge Ledezma (as prefect)"
+    },
+    "P582": "2015-05-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Iván Canelas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defense (Bolivia)"
+      ],
+      "stated_as": "Minister of Defense"
+    },
+    "P580": "2020-11-09",
+    "P1365": {
+      "links": [
+        "Luis Fernando López (military)"
+      ],
+      "stated_as": "Luis Fernando López"
+    }
+  }
+]
