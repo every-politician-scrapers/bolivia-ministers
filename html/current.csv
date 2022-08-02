@@ -1,23 +1,23 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Luis Arce,Q16149892,2020-11-08,male,1963-09-28,,"Luis Arce (Official Photo, 2020) Cropped II.png",Luis Arce
-Vice President,David Choquehuanca,Q58136,2020-11-08,male,1961-05-07,,David Choquehuanca (cropped).jpg,David Choquehuanca
-"Minister of Cultures, Decolonization and Depatriarchalization",Sabina Orellana,Q104019011,2020-11-20,female,1970,,,Sabina Orellana
-Minister of Defence,Edmundo Novillo,Q5339974,2020-11-09,male,1963-01-28,,Edmundo Novillo speaking.JPG,Edmundo Novillo
-Minister of Development Planning,Gabriela Mendoza,Q110419343,2020-11-09,female,,,,
-Minister of Education,Edgar Pary,Q109655518,2021-11-19,male,,,"Edgar Pary. 18 March 2022, Vice Ministry of Communication, La Paz (Cropped).jpg",Edgar Pary
-Minister of Economy and Public Finance,Marcelo Montenegro,Q110419344,2020-11-09,male,,,,
-Minister of Environment and Water,Juan Santos Cruz,Q110419349,2020-11-09,male,,,,
-Minister of Foreign Affairs,Rogelio Mayta,Q102116482,2020-11-09,male,1971-09-16,,Rogelio Mayta (CROPPED).png,Rogelio Mayta
-Minister of Government,Carlos del Castillo,Q104804128,2020-11-09,male,1988-12-27,,Eduardo del Castillo.jpg,Eduardo del Castillo
-Minister of Health and Sports,Jeyson Auza,Q106319757,2021-01-16,male,1981-11-13,,Jeyson Auza en febrero de 2019.png,
-Minister of Hydrocarbons and Energies,Franklin Molina Ortiz,Q110419351,2020-11-19,male,,,,
-Minister of Justice and Institutional Transparency,Iván Lima Magne,Q101466811,2020-11-09,male,1974-03-21,,Iván Lima.png,Iván Lima
-Minister of Mining and Metallurgy,Ramiro Villavicencio,Q110419347,2020-11-09,male,,,,
-Minister of the Presidency,María Nela Prada,Q102304997,2020-11-09,female,1980,,María Nela Prada (CROPPED).png,María Nela Prada
-Minister of Productive Development and the Plural Economy,Néstor Huanca Chura,Q110419345,2020-11-09,male,,,,
-"Minister of Public Works, Services, and Housing",Edgar Montaño Rojas,Q101436759,2020-11-09,male,1971-08-23,,,Edgar Montaño
-Minister of Rural Development and Lands,Remmy Gonzáles,Q106577025,2021-04-20,male,,,,
-"Minister of Work, Employment, and Social Security",Verónica Navia Tejada,Q110419348,2020-11-09,female,,,,
-President of the Senate,Andrónico Rodríguez Ledezma,Q75827853,2020-11-03,male,1988-11-11,,Andrónico Rodríguez en 2019.2.png,Andrónico Rodríguez
-President of the Chamber of Deputies,Freddy Mamani Laura,Q102347129,2020-11-08,male,1974-12-08,,Freddy Mamani en noviembre de 2021.png,
-President of the Central Bank,Roger Edwin Rojas Ulo,Q110419438,2020,male,,,,
+position,person,personID,start,end
+President,Luis Arce,Q16149892,2020-11-08,
+Vice President,David Choquehuanca,Q58136,2020-11-08,
+"Minister of Cultures, Decolonization and Depatriarchalization",Sabina Orellana,Q104019011,2020-11-20,
+Minister of Defence,Edmundo Novillo,Q5339974,2020-11-09,
+Minister of Development Planning,Gabriela Mendoza,Q110419343,2020-11-09,
+Minister of Education,Edgar Pary,Q109655518,2021-11-19,
+Minister of Economy and Public Finance,Marcelo Montenegro,Q110419344,2020-11-09,
+Minister of Environment and Water,Juan Santos Cruz,Q110419349,2020-11-09,
+Minister of Foreign Affairs,Rogelio Mayta,Q102116482,2020-11-09,
+Minister of Government,Carlos del Castillo,Q104804128,2020-11-09,
+Minister of Health and Sports,Jeyson Auza,Q106319757,2021-01-16,
+Minister of Hydrocarbons and Energies,Franklin Molina Ortiz,Q110419351,2020-11-19,
+Minister of Justice and Institutional Transparency,Iván Lima Magne,Q101466811,2020-11-09,
+Minister of Mining and Metallurgy,Ramiro Villavicencio,Q110419347,2020-11-09,
+Minister of the Presidency,María Nela Prada,Q102304997,2020-11-09,
+Minister of Productive Development and the Plural Economy,Néstor Huanca Chura,Q110419345,2020-11-09,
+"Minister of Public Works, Services, and Housing",Edgar Montaño Rojas,Q101436759,2020-11-09,
+Minister of Rural Development and Lands,Remmy Gonzáles,Q106577025,2021-04-20,
+"Minister of Work, Employment, and Social Security",Verónica Navia Tejada,Q110419348,2020-11-09,
+President of the Senate,Andrónico Rodríguez Ledezma,Q75827853,2020-11-03,
+President of the Chamber of Deputies,Freddy Mamani Laura,Q102347129,2020-11-08,
+President of the Central Bank,Roger Edwin Rojas Ulo,Q110419438,2020,
